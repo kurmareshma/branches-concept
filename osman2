@@ -1,0 +1,7 @@
+public class methoddemo3
+{
+ public static void main(String[] args)
+ {
+  System.out.println("osman is a good boy");
+ }
+}
